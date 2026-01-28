@@ -2,8 +2,11 @@
 
 ## Contributors
 Thomas Mooney
+
 Cameron Allison
+
 Ashley Linstrom
+
 Hayden Howard
 
 ## Description
