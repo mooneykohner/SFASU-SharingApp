@@ -1,6 +1,11 @@
 # CRC App
 
 ## Getting Started
+
+Please read the CONTRIBUTE.md file for TODO and PR guidelines
+
+[Miro](https://miro.com/app/board/uXjVGJS4kiA=/) (for UML)
+
 To get started, fork the repository.
 
 Depending on what editor you're using, you can clone it straight from the IDE and push/pull via that.
