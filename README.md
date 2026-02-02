@@ -1,24 +1,10 @@
-# CRC App
+# SharingApp
 
 ## Getting Started
 
 Please read the CONTRIBUTE.md file for TODO and PR guidelines
 
 [Miro](https://miro.com/app/board/uXjVGJS4kiA=/) (for UML)
-
-To get started, fork the repository.
-
-Depending on what editor you're using, you can clone it straight from the IDE and push/pull via that.
-
-When pushing or making a pull request, please explain the purpose of the request in this format:
-
-Issue:
-
-Thought:
-
-Solution:
-
-To keep things organized, please leave comments and at minimum some concise documentation.
 
 ## Contributors
 Thomas Mooney
@@ -30,4 +16,4 @@ Ashley Linstrom
 Hayden Howard
 
 ## Description
-This is a repository for 3323's CRC App semester project.
+This is a repository for 3323's SharingApp semester project.
