@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Please read the CONTRIBUTE.md file for TODO and PR guidelines
+Please read the [CONTRIBUTE.md](CONTRIBUTE.md) file for TODO and PR guidelines
 
 [Miro](https://miro.com/app/board/uXjVGJS4kiA=/) (for UML)
 
